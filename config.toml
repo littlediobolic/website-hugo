@@ -1,6 +1,6 @@
 baseURL = "http://littlediobolic.github.io/"
 languageCode = "en-us"
-title = "Place for Things and Stuff"
+title = "Littlediobolic"
 theme = "hello-friend-ng"
 paginate = 10
 
@@ -24,11 +24,15 @@ paginate = 10
   # Default theme "light" or "dark"
   defaultTheme = "dark"
 
+[[params.social]]
+  name = "keybase"
+  url = "https://keybase.io/littlediobolic"
+
 [languages]
   [languages.en]
 
     [languages.en.params.logo]
-      logoText = "Diobolic"
+      logoText = "cd ~/"
       logoHomeLink = "/"
 
 
